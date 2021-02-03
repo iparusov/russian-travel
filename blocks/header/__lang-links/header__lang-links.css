@@ -1,0 +1,10 @@
+.header__lang-links {
+    display: flex;
+    margin-top: 18px;
+}
+
+.header__lang-links :first-child {
+    margin-right: 18px;
+    text-decoration: underline;
+    text-underline-position: under;
+}
