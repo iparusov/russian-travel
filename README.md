@@ -3,3 +3,4 @@
 Используемые технологии верстки:  
   - HTML
   - CSS
+### Ссылка на проект:  https://iparusov.github.io/russian-travel/
