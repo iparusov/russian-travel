@@ -3,7 +3,7 @@
     margin-top: 32px;
     max-width: 360px;
     font-size: 18px;
-    line-height: 1.22;
+    line-height: 22px;
     text-align: center;
     z-index: 1;
 }
@@ -13,6 +13,6 @@
         max-width: 288px;
         margin-top: 16px;
         font-size: 14px;
-        line-height: 1.14;
+        line-height: 16px;
     }
 }

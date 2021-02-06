@@ -7,7 +7,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-}
+    }
 
 @media screen and (max-width: 1024px) {
     .cover {

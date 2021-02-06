@@ -7,12 +7,26 @@
     justify-content: center;
     text-decoration: none;
     color: #ffffff;
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-}    
+    padding: 245px 0;
+}   
+
+@media screen and (max-width: 1024px) {
+    .cover__overlay {
+        padding: 195px 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .cover__overlay {
+        padding: 115px 0;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .cover__overlay {
+        padding: 33px 0;
+    }
+}
 
 .cover__overlay::before {
     content: "";
